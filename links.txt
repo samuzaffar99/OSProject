@@ -1,0 +1,5 @@
+type 1-hyper V
+https://browser.geekbench.com/v5/cpu/2209842
+
+type 2-VMware
+
