@@ -3,6 +3,7 @@ https://browser.geekbench.com/v5/cpu/2209842
 
 type 2-VMware
 https://browser.geekbench.com/v5/cpu/2210361
+https://browser.geekbench.com/v5/cpu/2210503
 
 reference:
 https://browser.geekbench.com/v5/cpu/2210429
