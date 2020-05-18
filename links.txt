@@ -1,9 +1,20 @@
 type 1-hyper V
 https://browser.geekbench.com/v5/cpu/2209842
+static mem
+https://browser.geekbench.com/v5/cpu/2210748
+https://browser.geekbench.com/v5/cpu/2210786
 
 type 2-VMware
 https://browser.geekbench.com/v5/cpu/2210361
 https://browser.geekbench.com/v5/cpu/2210503
 
+type 2-VBox
+https://browser.geekbench.com/v5/cpu/2211217
+https://browser.geekbench.com/v5/cpu/2211241
+
 reference:
 https://browser.geekbench.com/v5/cpu/2210429
+https://browser.geekbench.com/v5/cpu/2210607
+
+with hyperv
+https://browser.geekbench.com/v5/cpu/2210699
